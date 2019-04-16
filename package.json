@@ -1,8 +1,8 @@
 {
-  "name": "@cXiaof/prettier-config-without-tab-width",
+  "name": "prettier-config-without-tab-width",
   "version": "1.0.0",
   "description": "My usual Prettier config.",
-  "main": "index.js",
+  "main": "index.json",
   "repository": "git@github.com/cXiaof/prettier-config-without-tab-width.git",
   "author": "cXiaof",
   "license": "MIT",
