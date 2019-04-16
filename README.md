@@ -1,2 +1,2 @@
-# -cXiaof-prettier-config
+# prettier-config-without-tab-width
 Own usual prettier config
