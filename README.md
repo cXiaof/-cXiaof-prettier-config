@@ -14,7 +14,7 @@ $ yarn add --dev @cXiaof/prettier-config-without-tab-width
 
 ```jsonc
 {
-  // ...
-  "prettier": "@azz/prettier-config-without-tab-width"
+	// ...
+	"prettier": "@cXiaof/prettier-config-without-tab-width"
 }
 ```
