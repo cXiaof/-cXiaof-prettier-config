@@ -7,7 +7,7 @@
 **Install**:
 
 ```bash
-$ yarn add --dev prettier-config-without-tab-width
+yarn add -D prettier-config-without-tab-width
 ```
 
 **Edit `package.json`**:
